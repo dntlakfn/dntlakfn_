@@ -21,7 +21,7 @@
 <br>
 <br>
 
-## 내가 할수있는 언어들
+## 내가 배운 언어들
 
 <img src="https://img.shields.io/badge/Python-130466?style=flat-square&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Java-d60606?style=flat-square&logoColor=3776AB"/>
